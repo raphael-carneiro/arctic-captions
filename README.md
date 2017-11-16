@@ -5,6 +5,12 @@ runnable on GPU and CPU.
 
 Joint collaboration between the Université de Montréal & University of Toronto.
 
+## References
+
+* [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044). Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhutdinov, Richard Zemel, Yoshua Bengio. ICML 2015.
+* [The original implementation in Theano](https://github.com/kelvinxu/arctic-captions)
+* [Microsoft COCO dataset](http://mscoco.org/)
+
 ## Dependencies
 
 This code is written in python. To use it you will need:
